@@ -51,13 +51,10 @@
 <!-- Stats GitHub -->
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neederbrake&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neederbrake&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
-</div>
+
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neederbrake&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neederbrake&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
 
 </div>
 
