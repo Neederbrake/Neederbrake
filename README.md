@@ -52,17 +52,17 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neederbrake&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neederbrake&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neederbrake&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neederbrake&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neederbrake&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neederbrake&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
 </div>
 
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neederbrake&label=Profil+vues&color=brightgreen&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=neederbrake&label=Profil+vues&color=brightgreen&style=flat-square" alt="Profile views"/>
 </div>
 
