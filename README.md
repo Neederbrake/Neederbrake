@@ -23,8 +23,8 @@
   </a>
 </p>
 <p align="center">
-  → <strong>Mail :</strong> clement.rouveure10@gmail.com<br>
-  → <strong>Portfolio :</strong> neederbrake.github.io
+  → <strong>Mail :</strong> <a href="mailto:clement.rouveure10@gmail.com">clement.rouveure10@gmail.com<br></a>
+  → <strong>Portfolio :</strong> <a href="neederbrake.github.io">neederbrake.github.io</a>
 </p>
 
 
@@ -59,6 +59,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neederbrake&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
 </div>
+
 
 
 <div align="center">
