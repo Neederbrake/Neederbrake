@@ -53,5 +53,6 @@ Perhaps there's nothing else to find?
 <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neederbrake&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
   </br> <!--Saut de ligne-->
+    <img src="https://komarev.com/ghpvc/?username=neederbrake&label=Profil+vues&color=brightgreen&style=flat-square" alt="Profile views"/>
 </div>
 
